@@ -1,0 +1,16 @@
+{
+	"editor.insertSpaces": false,
+	"editor.tabSize": 4,
+	"[html]": {
+		"editor.formatOnSave": true,
+	},
+	"[json]": {
+		"editor.formatOnSave": true,
+	},
+	"search.exclude": {
+		"**/node_modules": false,
+		"**/bower_components": true,
+		"**/*.code-search": true,
+		"src/assets/icon-font/*": true
+	},
+}

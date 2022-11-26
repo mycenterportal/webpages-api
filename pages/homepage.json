@@ -1,0 +1,59 @@
+{
+	"title": "Home Page",
+	"seo": {
+		"title": "Home Page - SEO Title",
+		"description": "This is Home Page Seo meta description",
+		"image": "https://picsum.photos/id/0/500/300"
+	},
+	"sections": [
+		{
+			"name": "homepage_slider",
+			"options": {
+				"slider1": {
+					"slides": [
+						{
+							"image": "https://picsum.photos/id/1/500/300",
+							"title1": "Hats & Accessories",
+							"title2": "30% OFF",
+							"subtitle": "Everything",
+							"cta": {
+								"text": "SHOP NOW",
+								"link": "https://facebook.com/"
+							}
+						},
+						{
+							"image": "https://picsum.photos/id/2/500/300"
+						},
+						{
+							"image": "https://picsum.photos/id/3/500/300"
+						}
+					]
+				},
+				"slider2": {
+					"slides": [
+						{
+							"image": "https://picsum.photos/id/4/500/300",
+							"title1": "Accessories",
+							"title2": "Big SALE",
+							"cta": {
+								"text": "SHOP NOW",
+								"link": "https://facebook.com/"
+							}
+						},
+						{
+							"image": "https://picsum.photos/id/5/500/300",
+							"title1": "Lignerie",
+							"title2": "70% OFF"
+						},
+						{
+							"image": "https://picsum.photos/id/6/500/300"
+						},
+						{
+							"image": "https://picsum.photos/id/7/500/300"
+						}
+					]
+				}
+			}
+		}
+	]
+}
