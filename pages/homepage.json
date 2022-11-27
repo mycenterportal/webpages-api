@@ -12,7 +12,7 @@
 				"slider1": {
 					"slides": [
 						{
-							"image": "https://picsum.photos/id/1/500/300",
+							"image": "https://picsum.photos/id/1/1200/700",
 							"title1": "Hats & Accessories",
 							"title2": "30% OFF",
 							"subtitle": "Everything",
@@ -22,17 +22,17 @@
 							}
 						},
 						{
-							"image": "https://picsum.photos/id/2/500/300"
+							"image": "https://picsum.photos/id/2/1200/700"
 						},
 						{
-							"image": "https://picsum.photos/id/3/500/300"
+							"image": "https://picsum.photos/id/3/1200/700"
 						}
 					]
 				},
 				"slider2": {
 					"slides": [
 						{
-							"image": "https://picsum.photos/id/4/500/300",
+							"image": "https://picsum.photos/id/4/1200/700",
 							"title1": "Accessories",
 							"title2": "Big SALE",
 							"cta": {
@@ -41,15 +41,15 @@
 							}
 						},
 						{
-							"image": "https://picsum.photos/id/5/500/300",
+							"image": "https://picsum.photos/id/5/1200/700",
 							"title1": "Lignerie",
 							"title2": "70% OFF"
 						},
 						{
-							"image": "https://picsum.photos/id/6/500/300"
+							"image": "https://picsum.photos/id/6/1200/700"
 						},
 						{
-							"image": "https://picsum.photos/id/7/500/300"
+							"image": "https://picsum.photos/id/7/1200/700"
 						}
 					]
 				}
